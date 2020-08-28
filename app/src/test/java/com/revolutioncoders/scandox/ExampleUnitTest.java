@@ -1,4 +1,4 @@
-package com.revolutioncoders.scandocx;
+package com.revolutioncoders.scandox;
 
 import org.junit.Test;
 
